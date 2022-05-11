@@ -32,5 +32,9 @@ public static void main(String[] args) {
 	
 }
 
+private void phoneNO() {
+	System.out.println("a");
+}
+
 }
 
