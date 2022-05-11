@@ -31,6 +31,9 @@ public static void main(String[] args) {
 	obj.phoneInfo(56.56,56);
 	
 }
+private void test() {
+	System.out.println("print...");
 
+}
 }
 
